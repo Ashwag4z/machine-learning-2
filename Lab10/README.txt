@@ -1,6 +1,9 @@
+This is ML course alb 10 subimission 
+for SVM assigsnment, and below the asnwer for mentiond questions:
+
 Which flower species seems to be the most separable?
 -Iris setosa is the most separable species.
--It forms its own distinct cluster in almost every feature pair, especially petal length and petal width.
+-It forms its own distinect cluster in almost every feature pair, especially petal length and petal width.
 -Versicolor and virginica partly overlap with each other.
 
 
